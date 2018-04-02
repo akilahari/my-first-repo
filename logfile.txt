@@ -1,0 +1,35 @@
+commit 783b1bae4b8dc6c10b745bf813a8d4da72679e13
+Author: akiljana@gmail.com <akiljana@gmail.com>
+Date:   Fri Mar 30 17:05:02 2018 -0700
+
+    added jpg to gitignore
+
+commit 0ed3c50dfbcdf18aa147d515f8d8a3d4ebd43bf8
+Author: akiljana@gmail.com <akiljana@gmail.com>
+Date:   Fri Mar 30 17:03:23 2018 -0700
+
+    added png gitignore
+
+commit aef1a0cb9d230f549d45c7c20291a28eddec496a
+Author: akiljana@gmail.com <akiljana@gmail.com>
+Date:   Fri Mar 30 01:23:40 2018 -0700
+
+    modified gitignore
+
+commit 71b843083bb658eeeceeee19f37c8282938e1438
+Author: akiljana@gmail.com <akiljana@gmail.com>
+Date:   Fri Mar 30 01:21:54 2018 -0700
+
+    added gitignore
+
+commit c41c44dcb0502b16512a9f96812e67fe5d408c39
+Author: akiljana@gmail.com <akiljana@gmail.com>
+Date:   Fri Mar 30 00:58:53 2018 -0700
+
+    added two files
+
+commit 0945f2cba24c8b132c2037f89a0574e0eea1efc4
+Author: akiljana@gmail.com <akiljana@gmail.com>
+Date:   Fri Mar 30 00:51:32 2018 -0700
+
+    added readme.txt
